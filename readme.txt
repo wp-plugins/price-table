@@ -2,7 +2,7 @@
 	Contributors: paratheme
 	Donate link: http://paratheme.com
 	Tags: price table, pricing table, pricing tables, price tables, drag-drop price table, price table widget, pricing grid, pricing box, pricing, comparison, comparison table, free price table, free pricing table
-	Requires at least: 3.8
+	Requires at least: 4.0
 	Tested up to: 4.1
 	Stable tag: 1.0
 	License: GPLv2 or later
@@ -20,10 +20,10 @@ use via shortcode anywhere with some aswesome pricing table themes.
 ### Price Table by http://paratheme.com
 
 <br />
+* [See the Live demo!&raquo;](http://paratheme.com/demo/price-table/)
 
 
 <strong>Plugin Features</strong><br />
-
 
 * Use Via Short-codes.
 * Unlimited row columns.
