@@ -19,9 +19,8 @@ use via shortcode anywhere with some aswesome pricing table themes.
 
 ### Price Table by http://paratheme.com
 
-<br />
 * [See the Live demo!&raquo;](http://paratheme.com/demo/price-table/)
-
+* [Buy Premium!&raquo;](http://paratheme.com/items/price-table-drag-drop-row-column-awesome-pricing-table-for-wordpress/)
 
 <strong>Plugin Features</strong><br />
 
