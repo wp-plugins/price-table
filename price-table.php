@@ -14,7 +14,7 @@ define('price_table_plugin_url', WP_PLUGIN_URL . '/' . plugin_basename( dirname(
 define('price_table_plugin_dir', plugin_dir_path( __FILE__ ) );
 define('price_table_wp_url', 'https://wordpress.org/plugins/price-table/' );
 define('price_table_wp_reviews', 'https://wordpress.org/support/view/plugin-reviews/price-table/' );
-define('price_table_pro_url','http://paratheme.com/' );
+define('price_table_pro_url','http://paratheme.com/items/price-table-drag-drop-row-column-awesome-pricing-table-for-wordpress/' );
 define('price_table_demo_url', 'http://paratheme.com/demo/price-table/' );
 define('price_table_conatct_url', 'http://paratheme.com/contact' );
 define('price_table_qa_url', 'http://paratheme.com/qa/' );
