@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Price Table
-Plugin URI: http://paratheme.com/items/price_table-html-css3-responsive-accordion-grid-for-wordpress/
+Plugin URI: http://paratheme.com/items/price-table-drag-drop-row-column-awesome-pricing-table-for-wordpress/
 Description: HTML & CSS3 drag and drop pricing table.
 Version: 1.0
 Author: paratheme
