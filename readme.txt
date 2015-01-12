@@ -22,7 +22,7 @@ use via shortcode anywhere with some aswesome pricing table themes.
 * [See the Live demo!&raquo;](http://paratheme.com/demo/price-table/)
 * [Buy Premium!&raquo;](http://paratheme.com/items/price-table-drag-drop-row-column-awesome-pricing-table-for-wordpress/)
 
-<strong>Plugin Features</strong><br />
+<strong>Plugin Features</strong>
 
 * Use Via Short-codes.
 * Unlimited row columns.
@@ -39,6 +39,23 @@ use via shortcode anywhere with some aswesome pricing table themes.
 * Custom Price Duration Text.
 
 
+<strong>Premium Features</strong>
+
+* Life time free update.
+* Life time support via forum.
+* 7 Days Refund.
+* Ready Themes(Coming soon).
+* Custom column background Color Pack(header, price, signup).
+* Custom column text color pack(header, price, signup).
+* Custom column text font size (header, price, signup).
+* Multiple featured columns.
+* Column custom width.
+* Column custom margin.
+* Custom Google font.
+* Tool-Tip 7 ready themes.
+* Different tool-tip position.
+* Different tool-tip arrow positions.
+* 16 ready column hover effects.
 
 
 == Installation ==

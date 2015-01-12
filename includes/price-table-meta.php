@@ -759,7 +759,6 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
                     
                     <select class="price_table_font_family" name="price_table_font_family"  >
                      	<option value="" >Select</option>                   
-                    	<option value="custom" >- -Custom - -</option>
                     <?php
                     
 						foreach($google_fonts as $font)
@@ -829,7 +828,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
 								?>
 								<td>
 								<select class="price_table_themes_pack" col="<?php echo $u; ?>" name="price_table_themes_pack[col_<?php echo $u; ?>]">
-                                <option value="custom" <?php if($price_table_themes_pack[$key]=='custom') echo 'selected' ?>>Csutom</option>                                
+                                                          
                                 <option value="pack1" <?php if($price_table_themes_pack[$key]=='pack1') echo 'selected' ?>>Pack 1</option>
                                 <option value="pack2" <?php if($price_table_themes_pack[$key]=='pack2') echo 'selected' ?>>Pack 2</option>                                
                                 <option value="pack3" <?php if($price_table_themes_pack[$key]=='pack3') echo 'selected' ?>>Pack 3</option>                                
@@ -893,7 +892,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
 								?>
 								<td>
 								<select col="<?php echo $u; ?>" class="price_table_themes_text_pack" name="price_table_themes_text_pack[col_<?php echo $u; ?>]">
-                                <option value="custom" <?php if($price_table_themes_text_pack[$key]=='custom') echo 'selected' ?>>Csutom</option>                                
+                                                           
                                 <option value="pack1" <?php if($price_table_themes_text_pack[$key]=='pack1') echo 'selected' ?>>Pack 1</option>
                                 <option value="pack2" <?php if($price_table_themes_text_pack[$key]=='pack2') echo 'selected' ?>>Pack 2</option>                                
                                 <option value="pack3" <?php if($price_table_themes_text_pack[$key]=='pack3') echo 'selected' ?>>Pack 3</option>                                
