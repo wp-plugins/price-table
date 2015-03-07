@@ -3,7 +3,7 @@
 Plugin Name: Price Table
 Plugin URI: http://paratheme.com/items/price-table-drag-drop-row-column-awesome-pricing-table-for-wordpress/
 Description: HTML & CSS3 drag and drop pricing table.
-Version: 1.0
+Version: 1.1
 Author: paratheme
 Author URI: http://paratheme.com
 License: GPLv2 or later
@@ -75,7 +75,7 @@ register_activation_hook(__FILE__, 'price_table_paratheme_activation');
 
 function price_table_paratheme_activation()
 	{
-		$price_table_version= "1.0";
+		$price_table_version= "1.1";
 		update_option('price_table_version', $price_table_version); //update plugin version.
 		
 		$price_table_customer_type= "free"; //customer_type "free"
@@ -133,12 +133,9 @@ function price_table_paratheme_menu_help(){
 function price_table_paratheme_menu_init()
 	{
 		
-		add_submenu_page('edit.php?post_type=price_table', __('Help & Upgrade','menu-wpt'), __('Help & Upgrade','menu-wpt'), 'manage_options', 'price_table_paratheme_menu_help', 'price_table_paratheme_menu_help');
+		add_submenu_page('edit.php?post_type=price_table', __('Help & Upgrade','price-table'), __('Help & Upgrade','price-table'), 'manage_options', 'price_table_paratheme_menu_help', 'price_table_paratheme_menu_help');
 
 	}
 
 
 
-
-
-?>

@@ -157,7 +157,7 @@ function price_table_themes_flat($post_id)
 					$price_table_body.=  '<li style="background:'.$pack_header_bg.';" class="price-table-items ribbons"><span class="ribbon-'.$price_table_ribbons[$key1].'"></span>&nbsp;</li>';
 
 					$price_table_body.=  '<li style="background:'.$pack_header_bg.'; color:'.$pack_header_text_color.';" class="price-table-items header">'.$price_table_data_header[$key1].'</li>';
-					$price_table_body.=  '<li style="background:'.$pack_price_bg.';color:'.$pack_price_text_color.';"  class="price-table-items price">'.$price_table_data_price[$key1].'<span>/'.$price_table_col_duration[$key1].'</span></li>';
+					$price_table_body.=  '<li style="background:'.$pack_price_bg.';color:'.$pack_price_text_color.';"  class="price-table-items price">'.$price_table_data_price[$key1].'<span>'.$price_table_col_duration[$key1].'</span></li>';
 					if(!empty($price_table_col_img[$key1]))
 						{
 							$col_img = $price_table_col_img[$key1];

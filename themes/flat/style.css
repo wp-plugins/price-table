@@ -91,9 +91,9 @@
 }
 
 .price-table-main .price-table-items.data {
-  font-size: 15px;
+  font-size: 13px;
   line-height: normal;
-  padding: 5px 0;
+  padding: 8px 0;
 }
 .price-table-main .price-table-items.data .data-empty {
   background: url("images/cross.png") no-repeat scroll 0 4px rgba(0, 0, 0, 0);
