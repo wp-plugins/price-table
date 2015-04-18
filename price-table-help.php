@@ -69,7 +69,7 @@
 					?>
                 </div>
                 
-<!-- 
+
 
 				<div class="option-box">
                     <p class="option-title">Video Tutorial</p>
@@ -78,7 +78,7 @@
                 </div>
 
 
--->
+
                
 
                

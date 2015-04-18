@@ -39,6 +39,9 @@ use via shortcode anywhere with some aswesome pricing table themes.
 * Custom Price Duration Text.
 
 
+<strong>Video Tutorial(With Pro features)</strong>
+https://www.youtube.com/watch?v=zVomAFkUCSA
+
 <strong>Premium Features</strong>
 
 * Life time free update.

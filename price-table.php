@@ -20,7 +20,7 @@ define('price_table_conatct_url', 'http://paratheme.com/contact' );
 define('price_table_qa_url', 'http://paratheme.com/qa/' );
 define('price_table_plugin_name', 'Price Table' );
 define('price_table_share_url', 'https://wordpress.org/plugins/price-table/' );
-define('price_table_tutorial_video_url', '//www.youtube.com/embed/8OiNC?rel=0' );
+define('price_table_tutorial_video_url', '//www.youtube.com/embed/zVomAFkUCSA?rel=0' );
 
 require_once( plugin_dir_path( __FILE__ ) . 'includes/price-table-meta.php');
 require_once( plugin_dir_path( __FILE__ ) . 'includes/price-table-functions.php');
