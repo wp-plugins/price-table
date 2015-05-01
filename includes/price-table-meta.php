@@ -437,7 +437,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
 
 
             	<div class="option-box">
-                    <p class="option-title">Coulmn Price Duration Text</p>
+                    <p class="option-title">Column Price Duration Text</p>
                     <p class="option-info"></p>
 
                     <div class="price-table-duration-container">
@@ -482,7 +482,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
 
             
             	<div class="option-box">
-                    <p class="option-title">Coulmn Custom Width</p>
+                    <p class="option-title">Column Custom Width</p>
                     <p class="option-info"></p>
 
                     <div class="price-table-width-container">
@@ -521,7 +521,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
             
             
             	<div class="option-box">
-                    <p class="option-title">Coulmn Ribbons</p>
+                    <p class="option-title">Column Ribbons</p>
                     <p class="option-info"></p>
                     <div class="price-table-more-container">
                     <table id="price-table-more">
@@ -590,7 +590,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
                 
                
                 
-                    <p class="option-title">Coulmn Video or Images</p>
+                    <p class="option-title">Column Video or Images</p>
                     <p class="option-info"></p>
 					
                     <div class="price-table-img-container">
@@ -808,7 +808,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
          
                 
             	<div class="option-box">
-                    <p class="option-title">Coulmn Background Color Pack</p>
+                    <p class="option-title">Column Background Color Pack</p>
                     <p class="option-info">Custom Background Color only for premium version</p>
                     <div class="price-table-themes-pack-container">
                     <table id="price-table-themes-pack">
@@ -872,7 +872,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
                 
                 
             	<div class="option-box">
-                    <p class="option-title">Coulmn Text Color Pack</p>
+                    <p class="option-title">Column Text Color Pack</p>
                     <p class="option-info">Custom Color only for premium version.</p>
                     <div class="price-table-themes-text-pack-container">
                     <table id="price-table-themes-text-pack">
@@ -934,7 +934,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
                 
                 
             	<div class="option-box">
-                    <p class="option-title">Coulmn Text Font Size</p>
+                    <p class="option-title">Column Text Font Size</p>
                     <p class="option-info">Custom Font Size only for premium version.</p>
                     <div class="price-table-themes-text-size-pack-container">
                     <table id="price-table-themes-text-size-pack">
