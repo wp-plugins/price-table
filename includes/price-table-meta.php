@@ -998,7 +998,7 @@ jQuery('#price-table-admin').dragtable({dragHandle:'.column-drag-handle'});
         
         </ul>
         
-
+ 
 
     </div> <!-- para-settings -->
 
