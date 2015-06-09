@@ -24,18 +24,32 @@ function price_table_themes_flat($post_id)
 		$price_table_font_family = get_post_meta( $post_id, 'price_table_font_family', true );
 		$price_table_font_family_custom = get_post_meta( $post_id, 'price_table_font_family_custom', true );		
 		
+		
+		$price_table_body = '';
+		
 		$price_table_data_reverse = array();
-		foreach ($price_table_data as $key1 => $arr) {
-			foreach ($arr as $key2 => $num) {
-				$price_table_data_reverse[$key2][$key1] = $num;
+		
+		if(empty($price_table_data))
+			{
+			
+				return 'Table data is missing or you forget to save data.';
+				
 			}
-		}
+		else
+			{
+				foreach ($price_table_data as $key1 => $arr) {
+					foreach ($arr as $key2 => $num) {
+						$price_table_data_reverse[$key2][$key1] = $num;
+					}
+				}	
+			}
+
 		
 
 
 
 
-		$price_table_body = '';
+		
 		//$price_table_body .= print_r($price_table_themes_pack);
 		
 		
